@@ -1,3 +1,6 @@
 def print_greeting():
-    print("Привет,Мир!")
+ lesson1
+    print("Привет, МИР!")
+
+
 print_greeting()
